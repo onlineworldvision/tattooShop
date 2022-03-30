@@ -49,7 +49,7 @@
 .pogoSlider-loading-icon {
 	position: absolute;
 	top: 50%;
-	margin-top: 18px;
+	margin-top: -18px;
 	left: 50%;
 	margin-left: -18px;
 	width: 36px;
